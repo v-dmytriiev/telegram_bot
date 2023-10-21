@@ -1,0 +1,70 @@
+{
+    "servers": {
+        "server": [
+            {
+                "serialnumber": "30640102",
+                "location": "c-5",
+                "starttime": "04:09:12",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10..174",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3640096",
+                "location": "c-5",
+                "starttime": "04:09:14",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "1010.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "330640091",
+                "location": "c-5",
+                "starttime": "04:09:07",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.12.43",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "G30540728",
+                "location": "c-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "1010.205",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "G0540720",
+                "location": "c-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "10.11.246",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "330640094",
+                "location": "c-5",
+                "starttime": "04:09:02",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.12.243",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "330640010",
+                "location": "c-4",
+                "starttime": "03:09:41",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.8.49",
+                "status": "PASSED"
+            }
+
+        ]
+    }
+}

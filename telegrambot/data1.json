@@ -1,0 +1,277 @@
+{
+    "servers": {
+        "server": [
+            {
+                "serialnumber": "3B30640102",
+                "location": "B-5",
+                "starttime": "04:09:12",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.174",
+                "status": "TESTING"
+            },
+            {
+                "serialnumber": "3B30640096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "DISCONNECTED"
+            },
+            {
+                "serialnumber": "GA30540710",
+                "location": "B-21",
+                "starttime": "22:19:31",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "7.155",
+                "status": "DISCONNECTED"
+            },
+            {
+                "serialnumber": "3LA30640091",
+                "location": "B-5",
+                "starttime": "04:09:07",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "12.43",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GH30540728",
+                "location": "B-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "10.205",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "GASH30540720",
+                "location": "B-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "11.246",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "GH30540724",
+                "location": "B-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "9.93",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3A30640104",
+                "location": "B-5",
+                "starttime": "04:09:12",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "9.206",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3A30640094",
+                "location": "B-5",
+                "starttime": "04:09:02",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "12.243",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640016",
+                "location": "B-4",
+                "starttime": "03:04:17",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".9.39",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640009",
+                "location": "B-4",
+                "starttime": "03:04:15",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "9.82",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3A30640097",
+                "location": "B-5",
+                "starttime": "04:09:19",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.178",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GH30540712",
+                "location": "B-1",
+                "starttime": "22:49:20",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "121.207",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3B30640098",
+                "location": "B-5",
+                "starttime": "04:09:13",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "8.226",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3A30640101",
+                "location": "B-5",
+                "starttime": "04:09:20",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "11.14",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GH30540714",
+                "location": "B-1",
+                "starttime": "22:53:33",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": ".9.73",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "GH30540722",
+                "location": "B-1",
+                "starttime": "22:55:27",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "12.209",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3A30640095",
+                "location": "B-5",
+                "starttime": "04:09:10",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "17.8",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640103",
+                "location": "B-5",
+                "starttime": "04:09:25",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.240",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GH30540708",
+                "location": "B-1",
+                "starttime": "22:55:34",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "12.210",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3A30640013",
+                "location": "B-4",
+                "starttime": "03:04:18",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".9.113",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3A30640089",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".12.220",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640090",
+                "location": "B-5",
+                "starttime": "04:09:18",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "12.252",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640100",
+                "location": "B-5",
+                "starttime": "04:09:12",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "1.7.30",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640014",
+                "location": "B-4",
+                "starttime": "03:09:43",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".8.89",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GH30540718",
+                "location": "B-1",
+                "starttime": "22:55:27",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "7.130",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3A30640015",
+                "location": "B-4",
+                "starttime": "03:04:18",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "11.127",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GA30540716",
+                "location": "B-1",
+                "starttime": "22:55:28",
+                "currentstate": "chk_bios_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": ".8.157",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3B30640002",
+                "location": "B-4",
+                "starttime": "03:13:39",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".11.8",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BLA30640",
+                "location": "B-4",
+                "starttime": "03:09:41",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": ".8.49",
+                "status": "PASSED"
+            }
+
+        ]
+    }
+}
